@@ -1,1 +1,1 @@
-# OFDM
+# Orthogonal Frequency Division Multiplexing (OFDM)
